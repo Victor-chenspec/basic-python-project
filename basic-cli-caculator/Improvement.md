@@ -4,7 +4,7 @@
 
 - Calculator using command line.
 - having basic operator
-- expect wrong and zero division error
+- expect wrong operator and zero division error
 
 ## Mistake
 
