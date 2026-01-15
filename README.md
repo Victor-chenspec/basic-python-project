@@ -56,12 +56,10 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Language: **Python**
 - Interface: **Command Line (CLI)**
-- Libraries: Python Standard Library เท่านั้น
-
-> deliberately ไม่ใช้ framework เพื่อฝึก “คิดเอง”
+- Libraries: Python Standard Library
 
 ---
